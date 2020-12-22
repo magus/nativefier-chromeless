@@ -2,7 +2,7 @@
 
 [nativefier](https://github.com/jiahaog/nativefier)...but [chromeless](https://github.com/jiahaog/nativefier/blob/master/docs/api.md#hide-window-frame) and [draggable](https://github.com/electron/electron/blob/master/docs/api/frameless-window.md#draggable-region)
 
-<img width="2048" alt="Screen Shot 2020-12-21 at 8 03 35 PM" src="https://user-images.githubusercontent.com/290084/102847657-b3dba000-43c7-11eb-945b-b4498c17ff5b.png">
+![nativefier-chromeless-demo](https://user-images.githubusercontent.com/290084/102848067-b985b580-43c8-11eb-824d-baef28c0e12d.gif)
 
 
 ## usage
