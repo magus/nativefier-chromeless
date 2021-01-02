@@ -6,3 +6,7 @@ html {
 button {
   -webkit-app-region: no-drag;
 }
+
+a {
+  -webkit-app-region: no-drag;
+}
