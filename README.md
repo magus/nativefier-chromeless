@@ -7,13 +7,14 @@
 
 ## usage
 
-```sh
-yarn global add nativefier
+In order to run `nativefier` you will need a working `node` installation with `npm`.
 
-nativefier "http://crawl.akrasiac.org:8080/#lobby" \
+```sh
+npx nativefier "http://crawl.akrasiac.org:8080/#lobby" \
   --hide-window-frame \
   --maximize \
   --inject ./draggable.css \
+  --disable-old-build-warning-yesiknowitisinsecure \
   --name DCSS \
   ~/Desktop
 ```
